@@ -1,5 +1,5 @@
 import Box from "@mui/material/Box";
-import React, { useState,useEffect } from "react";
+import React, { useState} from "react";
 import Grid from "@mui/material/Grid";
 import Button from "@mui/material/Button";
 import { supabase } from "../../config/supabaseClient";
