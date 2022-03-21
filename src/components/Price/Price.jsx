@@ -12,7 +12,7 @@ export default function PriceValue({ session }) {
 
   //CREATE CRUD
   const addPrice = async () => {
-    const { data, error } = await supabase
+    await supabase
       .from("precio")
       .update({ valor: valorP })
       .eq("id", 1);
