@@ -1,0 +1,21 @@
+{
+    "Login":"Logearse",
+    "Ingresa":"Ingresa mediante un link mágico",
+    "Correo":"Correo",
+    "IngresaC":"Ingresa tu correo",
+    "EnviarLinkM":"Enviar link magico",
+    "Estacionamiento":"Estacionamiento",
+    "Entrada":"Entrada",
+    "Salida":"Salida",
+    "Acciones":"Acciones",
+    "Deslogearse": "Deslogearse",
+    "H/F":"Hora/Fraccion: $",
+    "Administrador":"Administrador",
+    "Cliente":"Cliente",
+    "Precio":"Precio",
+    "Historico":"Historico",
+    "Perfil":"Perfil",
+    "Nombre":"Nombre",
+    "ActualizarP":"Actualizar perfil",
+    "Actualizar":"Actualizar"
+}

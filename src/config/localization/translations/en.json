@@ -1,0 +1,21 @@
+{
+    "Login":"Login",
+    "Ingresa":"Enter through a magic link",
+    "Correo":"Email",
+    "IngresaC":"Type your email",
+    "EnviarLinkM":"Send a magic link",
+    "Estacionamiento":"Parking lot",
+    "Entrada":"Check in",
+    "Salida":"Check out",
+    "Acciones":"Actions",
+    "Deslogearse": "Log out",
+    "H/F":"Hours per Fraction: $",
+    "Administrador":"Administrador",
+    "Precio":"Precio",
+    "Historico":"Historico",
+    "Perfil":"Perfil",
+    "Nombre":"Name",
+    "ActualizarP":"Update profile",
+    "Actualizar":"Upload"
+
+}
